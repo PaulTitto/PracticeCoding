@@ -1,1 +1,1 @@
-This repository contains basic and very beginner programs implemented in python. Questions have been solved by HackerRank Practice.
+This repository contains basic and very beginner programs implemented in python. Questions have been solved by Udemy Practice.
